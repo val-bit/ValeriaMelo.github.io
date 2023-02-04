@@ -15,7 +15,7 @@
 
  <p align="justify"> Meu nome é Valéria Melo, sou Desenvolvedora Web, apaixonada por tecnologia. </p>
  
- <p align="justify"> :pushpin: Tecnologias: JAVA e JS. </p>
+ <p align="justify"> :pushpin: Tecnologias: HTML, CSS e JS. </p>
  
 <p align="justify"> Produzi uma página de apresentação pessoal com um template Bootstrap. A página está disponivel na 
   <u> Github Pages </u>. </p>
